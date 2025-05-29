@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 ./gitignore
 ./node_modules/
 ./package-lock.json
 ./vit.config.js
-=======
+
 # Logs
 logs
 *.log
@@ -34,4 +33,3 @@ coverage
 *.sw?
 
 *.tsbuildinfo
->>>>>>> 37f07d5 (Initial commit)
